@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\validators\\menuitemcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:validators\\menuitemcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\models\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:models\\delivery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\data\\restaurantmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:data\\restaurantmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\controllers\\deliverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:controllers\\deliverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|d:\\sem-6\\adn\\rms_project\\restaurantmanagementsystem\\models\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931343F-77AE-44B3-A53E-E9EF6DA24CEF}|RestaurantManagementSystem.csproj|solutionrelative:models\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:07:19.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterRequest.cs",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:06:12.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:05:56.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delivery.cs",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Models\\Delivery.cs",
+              "RelativeDocumentMoniker": "Models\\Delivery.cs",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Models\\Delivery.cs",
+              "RelativeToolTip": "Models\\Delivery.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:05:42.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:05:36.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RestaurantManagementContext.cs",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Data\\RestaurantManagementContext.cs",
+              "RelativeDocumentMoniker": "Data\\RestaurantManagementContext.cs",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Data\\RestaurantManagementContext.cs",
+              "RelativeToolTip": "Data\\RestaurantManagementContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:05:26.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuItemCreateDtoValidator.cs",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Validators\\MenuItemCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\MenuItemCreateDtoValidator.cs",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Validators\\MenuItemCreateDtoValidator.cs",
+              "RelativeToolTip": "Validators\\MenuItemCreateDtoValidator.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:10:22.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:10:12.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Payment.cs",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Models\\Payment.cs",
+              "RelativeToolTip": "Models\\Payment.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:10:10.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Models\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "Models\\Enums\\UserRole.cs",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Models\\Enums\\UserRole.cs",
+              "RelativeToolTip": "Models\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:09:58.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-01T03:08:11.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAQwBsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T13:37:39.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderItemController.cs",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Controllers\\OrderItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderItemController.cs",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Controllers\\OrderItemController.cs",
+              "RelativeToolTip": "Controllers\\OrderItemController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T13:36:35.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwIsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T13:36:20.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewController.cs",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAQwA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T13:32:19.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "Models\\MenuItem.cs",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Models\\MenuItem.cs",
+              "RelativeToolTip": "Models\\MenuItem.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T10:32:23.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "Models\\Restaurant.cs",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Models\\Restaurant.cs",
+              "RelativeToolTip": "Models\\Restaurant.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAACMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T10:23:38.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T09:42:42.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeliveryController.cs",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Controllers\\DeliveryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeliveryController.cs",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Controllers\\DeliveryController.cs",
+              "RelativeToolTip": "Controllers\\DeliveryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T09:42:23.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MenuItemController.cs",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Controllers\\MenuItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MenuItemController.cs",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Controllers\\MenuItemController.cs",
+              "RelativeToolTip": "Controllers\\MenuItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T07:20:48.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADcBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T07:20:47.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T19:14:23.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RestaurantController.cs",
+              "ToolTip": "D:\\SEM-6\\ADN\\RMS_PROJECT\\RestaurantManagementSystem\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "Controllers\\RestaurantController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:31:53.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
